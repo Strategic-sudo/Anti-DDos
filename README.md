@@ -1,2 +1,2 @@
 # Anti-DDos
-protected and tested
+before running it install "pip install flask"
